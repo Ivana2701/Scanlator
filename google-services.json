@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755524012113",
+    "project_id": "scanlator-7d62f",
+    "storage_bucket": "scanlator-7d62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755524012113:android:018b9c6f7a4804a5299070",
+        "android_client_info": {
+          "package_name": "com.example.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2Dg9iOYAuJbTZjURw2Zm_0Vs5fLIiC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
